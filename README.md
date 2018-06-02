@@ -2,12 +2,8 @@
 
 Welcome!
 
-## This is a h2
+This is my very first webpage and it features all the different types of code and technologies to learn.
+I have linked all of the pictures to thier relevant wiki pages and the link not only works with clicking
+on the pictures but the actual name as well.
 
-### This is a h3
-
-#### This is a h4
-
-##### This is a h5
-
-###### This is a h6
+To help me make this website i used HTML5 along with CSS to write this website.
